@@ -8,5 +8,8 @@ Tecnologias Utilizadas:
 
 MySql, Servlets, Hibernate, Jackson, Junit
 
-OBS: dentro da pasta src\main\resources\
-Possui o arquivo de criação do banco de dados, bancodedados.sql
+OBS: 
+  Dentro da pasta src\main\resources\
+  Possui o arquivo de criação do banco de dados, bancodedados.sql.
+  
+  Nessa mesma pasta tambem possui o arquivo hibernate.cfg.xml com as informações de Porta, Usuario e Senha do Banco de Dados.
