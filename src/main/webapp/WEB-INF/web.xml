@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+	<display-name>API Rest For MLabs Magazine Luiza</display-name>
+	
+	<servlet>
+        <display-name>ClienteResource</display-name>
+        <servlet-name>ClienteResource</servlet-name>
+        <servlet-class>br.com.trrsolution.resource.ClienteResource</servlet-class>
+    </servlet>
+    
+</web-app>
