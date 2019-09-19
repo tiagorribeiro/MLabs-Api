@@ -13,3 +13,5 @@ OBS:
   Possui o arquivo de criação do banco de dados, bancodedados.sql.
   
   Nessa mesma pasta tambem possui o arquivo hibernate.cfg.xml com as informações de Porta, Usuario e Senha do Banco de Dados.
+
+Existe Tambem uma classe de teste unitario que pode ser executada para validar a comunicação com o banco.
